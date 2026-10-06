@@ -68,7 +68,7 @@ cl /std:c++17 solution.cpp /Fe:solution.exe
 
 ## Progress
 
-![Easy](https://img.shields.io/badge/Easy-5-green)
+![Easy](https://img.shields.io/badge/Easy-9-green)
 ![Medium](https://img.shields.io/badge/Medium-8-orange)
 ![Hard](https://img.shields.io/badge/Hard-1-red)
 
@@ -76,7 +76,7 @@ cl /std:c++17 solution.cpp /Fe:solution.exe
 
 | Topic | Easy | Medium | Hard | Total |
 |---|---|---|---|---|
-| [Arrays](topics/arrays/) | 2 | 1 | 0 | 3 |
+| [Arrays](topics/arrays/) | 6 | 1 | 0 | 7 |
 | [Sliding Window](topics/sliding-window/) | 0 | 1 | 1 | 2 |
 | [Strings](topics/strings/) | 1 | 0 | 0 | 1 |
 | [Trees](topics/trees/) | 1 | 2 | 0 | 3 |
@@ -104,10 +104,14 @@ cl /std:c++17 solution.cpp /Fe:solution.exe
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Trees | ✓ | ✓ | [notes](topics/trees/easy/0104-maximum-depth-of-binary-tree/notes.md) |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Arrays | ✓ | ✓ | [notes](topics/arrays/easy/0121-best-time-to-buy-and-sell-stock/notes.md) |
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | Graphs | ✓ | ✓ | [notes](topics/graphs/medium/0133-clone-graph/notes.md) |
+| 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Arrays | ✓ | ✓ | [notes](topics/arrays/easy/0169-majority-element/notes.md) |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Dynamic Programming | ✓ | ✓ | [notes](topics/dynamic-programming/medium/0198-house-robber/notes.md) |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | Graphs | ✓ | ✓ | [notes](topics/graphs/medium/0200-number-of-islands/notes.md) |
 | 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | Graphs | ✓ | ✓ | [notes](topics/graphs/medium/0207-course-schedule/notes.md) |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | Trees | ✓ | ✓ | [notes](topics/trees/medium/0236-lowest-common-ancestor/notes.md) |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Arrays | ✓ | ✓ | [notes](topics/arrays/medium/0238-product-of-array-except-self/notes.md) |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | Dynamic Programming | ✓ | ✓ | [notes](topics/dynamic-programming/medium/0322-coin-change/notes.md) |
+| 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | Easy | Arrays | ✓ | ✓ | [notes](topics/arrays/easy/0414-third-maximum-number/notes.md) |
+| 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | Easy | Arrays | ✓ | ✓ | [notes](topics/arrays/easy/0989-add-to-array-form-of-integer/notes.md) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | Dynamic Programming | ✓ | ✓ | [notes](topics/dynamic-programming/medium/1143-longest-common-subsequence/notes.md) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy | Arrays | ✓ | ✓ | [notes](topics/arrays/easy/1752-check-if-array-is-sorted-and-rotated/notes.md) |
